@@ -13,14 +13,17 @@ Focus areas
 1) User validation
   - Dictionary
   - Database (Separate version)
-  
+
+
 2) Stock validation
   - Ticker
   - Company name
-  
+
+
 3) Minimising human error
   - Inline keyboard/buttons used to minimize user input
-  
+
+
 4) Web Scraping
   - Uses Selenium to retrieve stock information
   - Asynchronous
@@ -34,13 +37,15 @@ Adding stock analysis functionalities
   - ARIMA (Auto Regressive Integrated Moving Average) modelling
   - Graphical Representation & Visualisation option
 
+
 2) Metrics such as (not exhaustive)
   - Industry/Sector
   - PE Ratio
   - EPS
   - ROE
   - Dividends
-  
+
+
 3) Retrieving stock information through API
   - Improving performance (reducing latency)
   - Retrieving historical data for stock analysis
