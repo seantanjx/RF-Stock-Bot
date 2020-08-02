@@ -1,5 +1,5 @@
 # RF-Stock-Bot
-Hi, my name is Sean, an undergraduate at Singapore Management University. I created this simple and user-friendly stock portfolio bot as a side-project out of my own interest during the summer holidays.
+Hi, my name is Sean, an undergraduate at Singapore Management University. I created this simple and user-friendly stock portfolio telegram bot (@RedFlagStockBot) as a side-project out of my own interest during the summer holidays.
 The current version of the bot has simple functions, but I made sure that it is robust and will be able to serve as a base code for future improvements.
 As I venture deeper into analytics and machine learning models, I intend to integrate analysis functionalities to further extend the practicality of the bot.
 
