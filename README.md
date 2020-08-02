@@ -5,6 +5,8 @@ The current version of the bot has simple functions, but I made sure that it is 
 
 As I venture deeper into analytics and machine learning models, I intend to integrate analysis functionalities to further extend the practicality of the bot.
 
+**Bot Status: Offline**
+
 # Phase 1 (Complete)
 Focus areas
 
@@ -42,6 +44,3 @@ Adding stock analysis functionalities
 3) Retrieving stock information through API
   - Improving performance (reducing latency)
   - Retrieving historical data for stock analysis
-
-
-**Bot Status: Offline**
